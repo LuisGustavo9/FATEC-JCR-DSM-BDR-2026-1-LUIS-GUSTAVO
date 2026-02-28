@@ -6,7 +6,7 @@ Disciplina de Banco de Dados Relacional – 2º semestre DSM – 2026/1
 Aluno
 - Nome:Luis Gustavo de Faria
 - LinkedIn:
-- GitHub: LuisGustavo9
+- GitHub: https://github.com/LuisGustavo9
 ---
 ##
 Estrutura
